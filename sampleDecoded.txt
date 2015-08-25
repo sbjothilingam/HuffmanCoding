@@ -1,0 +1,7 @@
+Problem 1:
+
+Implementing modified version of quick sort called MY_CHOICE_QUICK_SORT to improve the time complexity of the quick sort algorithm which has the worst case complexity of O(n^2) and best and average case complexity of O(n log n). The worst case complexity occurs when the pivot element is at the starting index or at the ending index. Time complexity of the algorithm can be increased by choosing a good pivot element. MY_CHOICE_QUICK_SORT chooses the median of left element, right element and middle element of the array to be the pivot element always where the worst case time complexity of the algorithm is eliminated.
+
+Programming Language and data structure used:
+
+Programming language used is Java and data structure used is ArrayList. Inserting, updating, partitioning of arrays etc and other arrays operations are done fast than compared to normal arrays. Java is chosen as the programming language because it has efficient memory management which is important of recursive functions, random number generation is simple and the programs developed using java can be executed and run on any platform.
